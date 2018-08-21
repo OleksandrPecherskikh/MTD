@@ -1,0 +1,17 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 25.05.2018 17:50:29
+
+#
+# object Plane002
+#
+
+v  49.2340 22.2222 46.8837
+v  -52.9564 22.2222 46.8837
+v  -52.9563 -55.9299 -64.7291
+v  49.2341 -55.9299 -64.7291
+# 4 vertices
+
+g Plane002
+f 4 3 2 1 
+# 1 polygons
+

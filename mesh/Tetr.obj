@@ -1,0 +1,20 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 25.05.2018 17:50:44
+
+#
+# object Cone001
+#
+
+v  52.9564 11.8279 8.8325
+v  -18.3219 17.3165 -40.0478
+v  -38.0522 -13.2863 62.0048
+v  -1.1023 78.7974 18.4636
+# 4 vertices
+
+g Cone001
+f 3 2 1 
+f 3 4 2 
+f 3 1 4 
+f 1 2 4 
+# 0 polygons - 4 triangles
+
